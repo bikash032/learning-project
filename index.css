@@ -1,0 +1,14 @@
+.firstdiv{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    padding: 8px;
+    color: white;
+
+}
+
+.loginform{
+    background-image: url('https://cms.imgworlds.com/assets/9558de9d-1e49-437e-aa7b-b8bd4d999b00.jpg?key=home-gallery');
+    background-repeat: no-repeat;
+}
